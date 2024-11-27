@@ -30,7 +30,7 @@ const ImageCompressorCard = () => {
       
       <div className="project-links">
         <a 
-          href="https://github.com/TU_USUARIO/image-compressor" 
+          href="https://github.com/elelier/image-compressor" 
           target="_blank" 
           rel="noopener noreferrer"
           className="github-link"
