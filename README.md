@@ -14,7 +14,7 @@ Una herramienta simple pero poderosa para comprimir imágenes manteniendo una ca
 
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/TU_USUARIO/image-compressor.git
+git clone https://github.com/elelier/image-compressor.git
 cd image-compressor
 ```
 

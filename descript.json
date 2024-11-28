@@ -1,0 +1,21 @@
+{
+      "nombre": "Compresor de Imágenes",
+      "version": "1.0.0",
+      "descripcion": "Una herramienta simple pero poderosa para comprimir imágenes manteniendo una calidad óptima, perfecta para preparar imágenes para correo electrónico o web.",
+      "tecnologias": [
+        "Python 3.6+",
+        "Pillow (PIL)",
+        "CLI"
+      ],
+      "caracteristicas": [
+        "Compresión inteligente de imágenes a menos de 1MB",
+        "Soporte para múltiples formatos (JPG, JPEG, PNG, BMP, WEBP)",
+        "Proceso por lotes automatizado",
+        "Preservación de calidad con algoritmo adaptativo",
+        "Conversión automática a RGB para formatos compatibles",
+        "Interfaz de línea de comandos simple y directa"
+      ],
+      "link": "https://github.com/elelier/image-compressor",
+      "link_u": "Ver en GitHub",
+      "banner": "imageCompressorBanner"
+}
